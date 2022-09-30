@@ -1,5 +1,5 @@
 # Powershell-attacks
-- Compilation of different techniques that i currently using in my adversary emulation. 
+- Compilation of different techniques that i am currently using in my adversary emulation. 
 ### To download using powershell:
 - Run windows powershell as an administrator, enter the commands below:
 ```
